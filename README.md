@@ -92,7 +92,6 @@ What I focus on:
 
 - 🏅 ISTQB Certified Tester – Foundation Level (CTFL)
 - 📜 Software Testing Certification – QSpiders
-- ♿ Accessibility test strategy contributor – SAP app ecosystem (NTT DATA)
 
 ---
 
